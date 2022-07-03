@@ -1,12 +1,15 @@
 # https://petstore.swagger.io/ - BACKEND API AUTOMATION
 
-GENERAL OVERVIEW
+GENERAL OVERVIEW:
 * Javascript Backend API automation
 * The main test script (petstoreApiTest.js) is located in the "./test" folder
 * Includes reporting using Mochawesome - please see ./testreports/testresults.html for test execution results
 * A video of test execution runs is included in the "TestVideos" folder 
 
-THIRD PARTY TOOLS/PLUGINS/EXTENSIONS
+TEST EXECUTION:
+To execute tests, in terminal, Run: npm test
+
+THIRD PARTY TOOLS/PLUGINS/EXTENSIONS:
 * Node
 * npm
 * Supertest
